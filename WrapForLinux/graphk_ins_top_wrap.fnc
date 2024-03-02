@@ -1,0 +1,36 @@
+create or replace function graphk_ins_top wrapped 
+a000000
+369
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+8
+563 3b9
+ycWTYyy1geisXM2DKmrhNzTA3jYwg3nDr8CDZ3TNMQ9rDMnNiOYMySO9hLDUh93wMWMzg6Gu
+2jloQNS0iH59AtBkoN+9vfqoPCIA3mzNtreiMMXI4fmKwsHGSe0+9lXDcqd5r+a1yAs7XeHh
++yb9QoJ4RSmQpS3D8v+WceaS5OF0QpeE5ullLE6FcEGO/G7nIk9ToU2pLu+/f5jr+a6VVltm
+4vFaqSUmF74tRMWBR/tIgIv22oQd/K9sdvx8spgM+rNcrEHDxje1wMQQTj2oquTV3zIIWwED
+FIvzHz4efxplxjY6z25ZmEbnplQLIrI2o7CWZ0eEuSY8dOgVsvCI52yuvXR89LgjTAqX8Lvg
+pNXqCLuCiNXNOguERU84smeGb7luan2BLl/93ZQiopsc1ebBqfIGKBwPdR+VcPsJOBgEpaq6
+VSZbijNta5lPIlfdIp/wSRKPdCkRtl36ohaCq2wq8JdID3XoOFVyrMi/gvlAxIQWJtH53e2i
+a+eLx7lbtNNU3fw0heqy2HgyAz6zEZL4e5opMjyRc8HYQnociPhHtAgwfWTl4J1igajVM60r
+MxLqefukO+DIW7L8sPqn6Uia3weNHVvO/nW7yBJB0iANFKQeZQWLV6vUWRhIMPX9amiTvrzn
+oysuXnkk4/ZEmgK80FYKKiViVAEy3EOJw8KIslx6J/18BoKkL+55sMgfMhkA/B4P7Q881/8/
+DM2yI6n2I/QT83uxHVubwC6+TfLOuEtVNGvYqxbfrq3C4nTNage+ZetFEUVXjnn2lvC8F9h4
+2s8zLlzxey5KUtMZN0mEg/efPoNVLgZnWfpIsZ57TGubo4ZFXHj0JcZEXs8R7n919e41dObF
+aEd8z7OSrR8ZWmjb9QYiOl+FvUkOasj1pw5VbzS34htt0kpB65aOPdy4xHc346H2aq61+7eO
+z74=
+
+/

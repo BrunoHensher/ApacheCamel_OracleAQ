@@ -1,0 +1,27 @@
+create or replace function edg_convert_path_to_vc_pipe wrapped
+a000000
+369
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+8
+17a 18d
+4+hWvjmjeyoCMO5yI1LtkYX+mHkwgwBprydqfHRVMQ9rutMWiPVL5oQoh1EhQHffSoa5yWHf
+9e0aOEZumwgDcXU1p+Qa/lYmuQHeAvF8cSD5mwSc7r8z67HkhsEHD9E/Ra4dDIgRZL55Z1q4
+aImyeLqnNzUF/b08mPH7EWstlNPV1Jil9fOWFghyoZphmP5MK0soep6IXvgdFO7YCjVVm9Pr
+wa4TXSoxNm5WuurFqD7k28LE5wb1FfK4bfsMrK/+uJjQjqaKH9OQhP7eyD03bvOUQAjyIje8
+tpvnDiOZSsijiC9SoDRv6ANCuZunv2+jY/V3GrPdTcf8CffpKolcWV7kcR3pViFUUUqZAHgW
+NTE5Llvu6N41M3n9/OG+MDodBcZMmg==
+/
